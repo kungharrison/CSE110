@@ -1,6 +1,6 @@
 # Harrison Kung's User Page
 ![Me at Yellowstone](.github/IMG_20220820_190957.jpg)
-**Welcome to my github page!**
+### **Welcome to my github page!**
 > Quote here
 
 Check out my contact info [Contact](#contact)
@@ -19,5 +19,5 @@ Check out how I completed this: [ReadME](/README.md)
 - send a message in slack!
 
 ## Todo
-- [x] **Finish User Page**
+- [x] * *Finish User Page* *
 - [ ] Work on HW0
