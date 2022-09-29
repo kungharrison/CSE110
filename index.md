@@ -1,26 +1,28 @@
-# Harrison Kung's User Page
+# Harrison's User Page
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
+
 ![Me at Yellowstone](.github/IMG_20220820_190957.jpg)
-### **Welcome to my github page!**
-> Quote here
+<sub> Me at Yellowstone National Park</sub>
 
-Check out my contact info [Contact](#contact)
+### **Welcome to my Github page!**
 
-`code text`
+I'm a 3rd year computer engineering student at UCSD.
+Go here if you want to contact me: [Contact](#contact)
 
-## Other Stuff
+## Fun facts
+1. My favorite website to browse when I'm bored [YouTube](youtube.com)
+2. I enjoy playing the piano!
+3. My favorite color is `#0000ff`
 
-1. My favorite website [YouTube](youtube.com)
-2. I like playing the piano!
-
-Check out how I completed this: [ReadME](/README.md)
+Access the ReadME file for this project: [ReadME](/README.md)
 
 ## Contact
 - hkung@ucsd.edu
-- send a message in slack!
+- Send me a message in slack!
 
 ## Todo
-- [x] * *Finish User Page* *
-- [ ] Work on HW0
+- [x] ~~Finish User Page~~
+- [ ] *Finish Group Project*
 
-My favorite place to hang out:
+<sup> My favorite place to hang out: </sup>
 ![Geisel Library](.github/geisel.jpg)
