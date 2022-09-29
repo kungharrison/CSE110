@@ -18,3 +18,6 @@ Check out how I completed this: [ReadME](/README.md)
 - hkung@ucsd.edu
 - send a message in slack!
 
+## Todo
+- [x] #Finish User Page
+- [ ] Work on HW0
