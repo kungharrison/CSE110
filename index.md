@@ -21,3 +21,6 @@ Check out how I completed this: [ReadME](/README.md)
 ## Todo
 - [x] * *Finish User Page* *
 - [ ] Work on HW0
+
+My favorite place to hang out:
+![Geisel Library](.github/geisel.jpg)
