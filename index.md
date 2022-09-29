@@ -19,5 +19,5 @@ Check out how I completed this: [ReadME](/README.md)
 - send a message in slack!
 
 ## Todo
-- [x] #Finish User Page
+- [x] **Finish User Page**
 - [ ] Work on HW0
