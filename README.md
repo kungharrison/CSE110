@@ -1,3 +1,2 @@
 # CSE110
-Harrison Kung's User Page
-My favorite programming language is C++.
+[Harrison's User Page](http://kungharrison.github.io/CSE110)
