@@ -1,7 +1,7 @@
 # Harrison's User Page
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
 
-![Me at Yellowstone](.github/IMG_20220820_190957.jpg)
+![Me at Yellowstone](/IMG_20220820_190957.jpg)
 <sub> Me at Yellowstone National Park</sub>
 
 ### **Welcome to my Github page!**
@@ -25,4 +25,4 @@ Access the ReadME file for this project: [ReadME](/README.md)
 - [ ] *Finish Group Project*
 
 <sup> My favorite place to hang out: </sup>
-![Geisel Library](.github/geisel.jpg)
+![Geisel Library](/geisel.jpg)
